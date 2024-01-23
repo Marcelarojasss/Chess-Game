@@ -8,7 +8,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About My Project
+## 🧠 About My Project
 
 [![Marcela's chess board][product-screenshot]
 
@@ -28,7 +28,7 @@ The loop continues indefinitely, and there is currently no implementation for ga
 It checks whether the input format is valid before processing the move.
  :smile:
 
-### Built With
+## ⚙️ Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * The standard input/output library (iostream) 
 * C++
@@ -37,31 +37,12 @@ This section should list any major frameworks that you built your project using.
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## 🦾 Usage
 
 How my project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-
-
-<!-- ROADMAP -->
-## 🚧 Roadmap
-
-See the [open issues](https://github.com/roshanlam/ReadMeTemplate/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## 🤝 Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **extremely appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 
 
