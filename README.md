@@ -8,7 +8,8 @@
 <!-- ABOUT THE PROJECT -->
 ## 🧠 About My Project
 
-[![Marcela's chess board][product-screenshot]
+[![Marcela's chess board][<img width="615" alt="Screenshot 2024-01-23 at 7 03 58 PM" src="https://github.com/Marcelarojasss/Chess-Game/assets/133062255/a6bc8b70-6c99-4802-8461-c1c93702b826">]
+
 
 
 Here's How It Works:
